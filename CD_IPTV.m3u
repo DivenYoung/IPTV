@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",﻿CCTV-1高清
 http://10.10.0.2:4022/rtp/239.93.0.184:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2高清
@@ -8,7 +7,7 @@ http://10.10.0.2:4022/rtp/239.93.1.11:2223
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4高清
 http://10.10.0.2:4022/rtp/239.93.1.105:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5高清
-http://10.10.0.2:4022/rtp/239.93.1.12:2224
+http://10.10.0.2:4022/rtp/239.93.42.37:5140
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6高清
 http://10.10.0.2:4022/rtp/239.93.1.13:2226
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7高清
@@ -43,12 +42,6 @@ http://10.10.0.2:4022/rtp/239.93.0.97:5140
 http://10.10.0.2:4022/rtp/239.93.0.104:5140
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 4K超高清
 http://10.10.0.2:4022/rtp/239.93.42.54:5140
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2高清
-http://10.10.0.2:4022/rtp/239.93.42.70:5140
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5高清
-http://10.10.0.2:4022/rtp/239.93.42.71:5140
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6高清
-http://10.10.0.2:4022/rtp/239.93.42.72:5140
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视高清
 http://10.10.0.2:4022/rtp/239.93.0.20:1235
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",CDTV-1高清
@@ -236,7 +229,7 @@ http://10.10.0.2:4022/rtp/239.93.0.217:9208
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力时尚高清
 http://10.10.0.2:4022/rtp/239.93.0.190:9012
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
-http://10.10.0.2:4022/rtp/239.93.0.106:5140
+http://10.10.0.2:4022/rtp/239.93.42.29:5140
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱旅游高清
 http://10.10.0.2:4022/rtp/239.93.1.234:5140
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱生活高清
@@ -329,8 +322,6 @@ http://10.10.0.2:4022/rtp/239.93.42.19:5140
 http://10.10.0.2:4022/rtp/239.93.42.20:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱宠宠物
 http://10.10.0.2:4022/rtp/239.93.42.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",风尚生活
-http://10.10.0.2:4022/rtp/239.93.42.29:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",幸福娱乐
 http://10.10.0.2:4022/rtp/239.93.42.31:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",来钓鱼吧
@@ -363,4 +354,41 @@ http://10.10.0.2:4022/rtp/239.93.42.59:5140
 http://10.10.0.2:4022/rtp/239.93.42.60:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="",成都大运
 http://10.10.0.2:4022/rtp/239.93.1.33:5140
-
+#EXTINF:-1 tvg-id="67" tvg-name="山东教育卫视" group-title="新增", 山东教育卫视
+http://10.10.0.2:4022/rtp/239.93.1.196:5140
+#EXTINF:-1 tvg-id="90" tvg-name="大爱旅游高清专区" group-title="新增", 大爱旅游高清专区
+http://10.10.0.2:4022/rtp/239.93.42.70:5140
+#EXTINF:-1 tvg-id="91" tvg-name="大爱生活高清专区" group-title="新增", 大爱生活高清专区
+http://10.10.0.2:4022/rtp/239.93.42.71:5140
+#EXTINF:-1 tvg-id="92" tvg-name="大爱时尚高清专区" group-title="新增", 大爱时尚高清专区
+http://10.10.0.2:4022/rtp/239.93.42.72:5140
+#EXTINF:-1 tvg-id="94" tvg-name="CETV-2" group-title="新增", CETV-2
+http://10.10.0.2:4022/rtp/239.93.0.113:5140
+#EXTINF:-1 tvg-id="130" tvg-name="导视专区" group-title="新增", 导视专区
+http://10.10.0.2:4022/rtp/239.93.0.129:5140
+#EXTINF:-1 tvg-id="134" tvg-name="东方财经高清" group-title="新增", 东方财经高清
+http://10.10.0.2:4022/rtp/239.93.1.165:5140
+#EXTINF:-1 tvg-id="162" tvg-name="先锋乒羽" group-title="新增", 先锋乒羽
+http://10.10.0.2:4022/rtp/239.93.42.56:5140
+#EXTINF:-1 tvg-id="163" tvg-name="天元围棋" group-title="新增", 天元围棋
+http://10.10.0.2:4022/rtp/239.93.42.55:5140
+#EXTINF:-1 tvg-id="164" tvg-name="快乐垂钓" group-title="新增", 快乐垂钓
+http://10.10.0.2:4022/rtp/239.93.1.151:5140
+#EXTINF:-1 tvg-id="165" tvg-name="茶频道" group-title="新增", 茶频道
+http://10.10.0.2:4022/rtp/239.93.0.114:5140
+#EXTINF:-1 tvg-id="166" tvg-name="乐龄学堂专区" group-title="新增", 乐龄学堂专区
+http://10.10.0.2:4022/rtp/239.93.1.179:5140
+#EXTINF:-1 tvg-id="167" tvg-name="亲子趣学4k专区" group-title="新增", 亲子趣学4k专区
+http://10.10.0.2:4022/rtp/239.93.1.191:5140
+#EXTINF:-1 tvg-id="168" tvg-name="动画番剧专区" group-title="新增", 动画番剧专区
+http://10.10.0.2:4022/rtp/239.93.1.177:5140
+#EXTINF:-1 tvg-id="169" tvg-name="中录动漫4K专区" group-title="新增", 中录动漫4K专区
+http://10.10.0.2:4022/rtp/239.93.1.188:5140
+#EXTINF:-1 tvg-id="170" tvg-name="熊猫24小时专区" group-title="新增", 熊猫24小时专区
+http://10.10.0.2:4022/rtp/239.93.1.178:5140
+#EXTINF:-1 tvg-id="171" tvg-name="综艺咖秀专区" group-title="新增", 综艺咖秀专区
+http://10.10.0.2:4022/rtp/239.93.1.175:5140
+#EXTINF:-1 tvg-id="172" tvg-name="红色经典专区" group-title="新增", 红色经典专区
+http://10.10.0.2:4022/rtp/239.93.1.176:5140
+#EXTINF:-1 tvg-id="173" tvg-name="4K乐享超清专区" group-title="新增", 4K乐享超清专区
+http://10.10.0.2:4022/rtp/239.93.0.43:5140
